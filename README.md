@@ -1,1 +1,1 @@
-# pystock
+# pytrader
